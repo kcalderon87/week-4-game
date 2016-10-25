@@ -1,0 +1,20 @@
+body {
+	background-image: url("../assets/images/star-wars-fighter.jpg");
+	font-family: 'Orbitron', sans-serif;
+}
+
+.header {
+	font-size: 75px;
+	text-align: right;
+	margin-top: 30px;
+	margin-right: 50px;
+}
+
+.character {
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	background-color: #fff;
+	border: green 5px solid;
+}
+
